@@ -1,1 +1,1 @@
-# KBCompletion
+# 语义Web知识库补全关键技术研究
